@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RadisysTestApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
